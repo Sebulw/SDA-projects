@@ -1,0 +1,3 @@
+polska <2> : <0> niemcy
+brazylia <3> : <2> argentyna
+niemcy <1>(3) : (5)<1> polska
